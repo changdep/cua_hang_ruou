@@ -1,5 +1,42 @@
 ﻿body {
 }
+
+}
+
 .content-slider {
-    padding: 330px 0 100px 0 !important
+    padding: 335px 0 20px 0 !important;
+}
+
+/* view_hang_moi_ve*/
+#hang_moi_ve {
+    margin-top: -485px;
+    border: 1px solid;
+    margin-left: 62px;
+    width: 1200px;
+    height: 500px;
+}
+
+.anh_sp {
+    width: 200px !important;
+    height: 300px !important;
+}
+
+
+/* gioi_thieu*/
+
+
+   
+#gioi_thieu { margin-top: 100px;
+}
+    #gioi_thieu .nd_gt {
+        float: left;
+        width: 450px;
+        margin-left: 104px;
+    }
+
+.video_gt {
+    float: left;
+    margin-top: -54px;
+    padding-left: 50px;
+
 }
